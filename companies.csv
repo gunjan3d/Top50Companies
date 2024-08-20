@@ -1,0 +1,51 @@
+Rank,Name,Industry,Revenue(in  ₹ Crore),Revenue growth,Profits(in  ₹ Crore),Headquarters,State Controlled
+1,Indian Oil Corporation,Oil and gas,424321,13.2%,22189,New Delhi,Yes
+2,Reliance Industries Limited,Oil and gas,410295,28.2%,36075,Mumbai,No
+3,Oil and Natural Gas Corporation,Oil and gas,333143,11.0%,22106,New Delhi,Yes
+4,State Bank of India,Banking,306528,2.6%,4556,Mumbai,Yes
+5,Tata Motors,Automotive,301175,7.9%,8989,Mumbai,No
+6,Bharat Petroleum,Oil and gas,238638,13.7%,9009,Mumbai,Yes
+7,Hindustan Petroleum,Oil and gas,221693,13.4%,7218,Mumbai,Yes
+8,Rajesh Exports,Gems and jewellery,187748,22.5%,1266,Bangalore,No
+9,Tata Steel,Iron and steel,147192,25.3%,13434,Mumbai,No
+10,Coal India,Metals and mining,132897,5.3%,7020,Kolkata,Yes
+11,Tata Consultancy Services,Infotech,126745,3.6%,25826,Mumbai,No
+12,Larsen & Toubro,Capital goods,122743,10.6%,7370,Mumbai,No
+13,Hindalco Industries,Metals and mining,120428,15.5%,6083,Mumbai,No
+14,ICICI Bank,Banking,118969,4.9%,7712,Mumbai,No
+15,Vedanta Resources,Metals and mining,102192,30.8%,10342,"London, UK",No
+16,HDFC Bank,Banking,101344,17.6%,18510,Mumbai,No
+17,Mahindra & Mahindra,Automotive,96377,12.2%,7510,Mumbai,No
+18,NTPC Limited,Utilities,90144,7.7%,10544,New Delhi,Yes
+19,Bharti Airtel,Telecommunication,86704,13.0%,1099,New Delhi,No
+20,Maruti Suzuki India,Automotive,81978,15.6%,7880,New Delhi,No
+21,Infosys,Infotech,73762,3.1%,16029,Bangalore,No
+22,Nayara Energy,Oil and gas,73015,10.7%,576,Mumbai,No
+23,HDFC,Financials,72596,18.9%,16255,Mumbai,No
+24,JSW Steel Ltd,Iron and steel,70148,22.6%,6214,Mumbai,No
+25,Axis Bank,Banking,58477,1.5%,456,Mumbai,Yes
+26,Steel Authority of India,Iron and steel,57626,28.8%,281,New Delhi,Yes
+27,Punjab National Bank,Banking,57608,0.7%,12130,New Delhi,Yes
+28,Grasim Industries,Diversified,57273,54.9%,2679,Mumbai,No
+29,Wipro,Infotech,56986,1.6%,8003,Bangalore,No
+30,Motherson Sumi Systems,Automotive,56839,32.7%,1597,Noida,No
+31,GAIL,Oil and gas,55503,11.6%,4799,New Delhi,Yes
+32,Bank of Baroda,Banking,54048,3.1%,1887,Vadodara,Yes
+33,HCL Technologies,Infotech,51695,6.3%,8721,Noida,No
+34,MRPL,Oil and gas,50209,8.9%,1993,Mangalore,Yes
+35,Canara Bank,Banking,48743,1.2%,3951,Bangalore,Yes
+36,ITC Limited,Consumer goods,44674,1.6%,11271,Kolkata,No
+37,Bank of India,Banking,44158,4.8%,5961,Mumbai,Yes
+38,General Insurance Corporation of India,Insurance,43555,38.9%,3146,Mumbai,Yes
+39,Kotak Mahindra Bank,Banking,38813,14.2%,6201,Mumbai,No
+40,Union Bank of India,Banking,38413,0.4%,5212,Mumbai,Yes
+41,Hindustan Unilever,Consumer goods,36088,7.1%,5214,Mumbai,No
+42,Vodafone India,Telecommunication,34855,18.9%,7766,Mumbai,No
+43,Tata Power,Utilities,33213,12.8%,2477,Mumbai,No
+44,Chennai Petroleum Corporation,Oil and gas,33187,20.0%,927,Chennai,Yes
+45,Hero MotoCorp,Automotive,33141,12.9%,3720,New Delhi,No
+46,Tech Mahindra,Infotech,32190,7.6%,3800,Pune,No
+47,UltraTech Cement,Cement,32106,23.7%,2222,Mumbai,No
+48,Petronet LNG,Oil and gas,30949,23.9%,2110,New Delhi,Yes
+49,Power Grid Corporation of India,Utilities,30908,16.1%,8198,Gurgaon,Yes
+50,Bajaj Finserv,Financials,30599,24.9%,2741,Pune,No
