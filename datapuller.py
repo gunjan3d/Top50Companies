@@ -3,8 +3,8 @@ import pandas as pd
 
 # S3 configuration
 s3 = boto3.client('s3',
-                  aws_access_key_id='AKIA4MTWJLROOCGSRAMY',
-                  aws_secret_access_key='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',
+                  aws_access_key_id='',
+                  aws_secret_access_key='',
                   region_name='ap1-south-1')
 
 # Specify the S3 bucket and filepip 
