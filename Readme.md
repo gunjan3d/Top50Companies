@@ -1,30 +1,43 @@
-Introduction###
-This project aims to provide a comprehensive view of various companies' financial performance by leveraging data from Wikipedia. The Power BI dashboard created in this project allows users to interact with the data and gain insights into the sales and profits of different companies over several quarters.
+# 📊 Top 50 Indian Companies Dashboard
 
+This project involves end-to-end **data extraction, transformation, and visualization** of the top 50 Indian companies by revenue, using the following tech stack:
 
-Data Extraction
-The data is extracted from Wikipedia using BeautifulSoup (bs4). The extraction script fetches the relevant data tables from Wikipedia and processes them into a structured format.
+- 🧠 **Python** (BeautifulSoup & Pandas)
+- ☁️ **AWS EC2** for remote execution
+- 📈 **Power BI** for interactive data visualization
 
-Data Visualization
-The extracted data is imported into Power BI to create interactive dashboards. The dashboard provides visualizations of profits and sales for different types of companies across multiple quarters, enabling detailed analysis and comparison.
+---
 
-Installation and Usage
-Clone the repository:
+## 📌 Project Objective
 
-Navigate to the project directory:
-Ensure you have the necessary dependencies installed. Refer to the Dependencies section for details.
+To scrape financial data about the top 50 Indian companies from Wikipedia, clean and process it for insights, and visualize it using Power BI to understand trends in revenue, profit, and sector-wise distribution.
 
-Run the data extraction script:
-in bs4.ipynb
+---
 
-Dependencies
-Python 3.x
-BeautifulSoup4
-Requests
-Power BI Desktop
+## 🧱 Tech Stack
 
-Install the required Python libraries using:
+| Layer            | Tools Used            |
+|------------------|------------------------|
+| Data Extraction  | `BeautifulSoup`, `requests` |
+| Data Processing  | `pandas`               |
+| Hosting/Storage  | `AWS EC2`, `CSV`       |
+| Visualization    | `Power BI`             |
 
-pip install beautifulsoup4 requests
-Contributing
-Contributions are welcome! If you have suggestions or improvements, please submit a pull request or open an issue.
+---
+
+## 🛠️ Workflow
+
+### 1. 🔍 Web Scraping
+
+- Source: [Wikipedia – List of largest Indian companies by revenue](https://en.wikipedia.org/wiki/List_of_largest_Indian_companies_by_revenue)
+- Extracted:
+  - Company name
+  - Industry
+  - Revenue (in ₹ crore)
+  - Profit
+  - Employees
+
+```python
+from bs4 import BeautifulSoup
+import requests
+import pandas as pd
